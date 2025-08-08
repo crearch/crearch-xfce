@@ -1,1 +1,1 @@
-# Edu xfce
+# CreArch xfce
